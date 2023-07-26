@@ -1,0 +1,14 @@
+mkdir learn-webpack
+cd learn-webpack
+npm init -y
+npm install webpack webpack-cli --save-dev
+npm install css-loader style-loader --save-dev
+npm install file-loader --save-dev
+npm install image-webpack-loader --save-dev
+npm i -g npm
+npm i --save lodash
+npm install jquery
+npm install webpack-dev-server --save-dev
+npm install clean-webpack-plugin --save-dev
+npm i -D html-plugin vhtml
+npm i --save-dev html-webpack-plugin
