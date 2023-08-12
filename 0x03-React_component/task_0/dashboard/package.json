@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "@babel/preset-flow": "^7.22.5",
-    "@babel/preset-react": "^7.22.5"
+    "@babel/preset-react": "^7.22.5",
+    "babel-install": "2.1.0"
   }
 }
